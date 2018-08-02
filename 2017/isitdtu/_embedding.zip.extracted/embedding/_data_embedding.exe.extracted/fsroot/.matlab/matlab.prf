@@ -1,0 +1,34 @@
+#MATLAB Preferences
+#Wed May 30 18:57:34 ICT 2018
+FindFilesSearchType=I0
+FindFilesShowFullPathState=Bfalse
+FindFilesExclusionFilterState=Btrue
+FindFilesWindowSize=R0 0 993 438
+FindFilesIncludeSubdirs=Bfalse
+RLHiddenB2_WB_2014b_1=I16376
+RLWidthB2_WB_2014b_1_1=I130
+FindFilesLookinList2=S
+pEZDeployDefaultAuthor=S
+RLWidthB2_WB_2014b_1_0=I130
+RLPrevInitB2_WB_2014b_1=Btrue
+MatlabExitConfirm=Bfalse
+RLOrderB2_WB_2014b_1=S0:1:
+DocumentsDetailViewerCollapsed=Btrue
+FindFilesMatchCaseState=Bfalse
+pEZDeployDefaultCompany=S
+pEZDeployDefaultEmail=S
+FindFilesMaxFileSizeSearched=I500
+FindFilesWindowLocation=R0 0 300 280
+EditorMRU8=SD:\\CTF\\steno\\audio-steganography-algorithms-master\\02-Echo-Hiding\\04-Echo-Hiding-Mirrored-Kernel\\data_extracting.m
+EditorMRU7=SD:\\CTF\\steno\\audio-steganography-algorithms-master\\02-Echo-Hiding\\04-Echo-Hiding-Mirrored-Kernel\\echo_dec.m
+DeploytoollastOpenFile=S
+FindFilesFileSizeFilterState=Btrue
+EditorMRU6=SD:\\CTF\\steno\\audio-steganography-algorithms-master\\02-Echo-Hiding\\04-Echo-Hiding-Mirrored-Kernel\\echo_enc_mirror.m
+EditorMRU5=SD:\\CTF\\steno\\audio-steganography-algorithms-master\\04-Phase-Coding\\data_embedding.m
+CommandWindowShowStartupMessage=Bfalse
+EditorMRU4=SD:\\CTF\\steno\\audio-steganography-algorithms-master\\04-Phase-Coding\\data_extracting.m
+EditorMRU3=SD:\\CTF\\steno\\audio-steganography-algorithms-master\\04-Phase-Coding\\phase_enc.m
+CommandWindowClearConfirmation=Btrue
+EditorMRU2=SD:\\CTF\\steno\\audio-steganography-algorithms-master\\04-Phase-Coding\\phase_dec.m
+DeploytoolrecentProjects=SD:\\CTF\\steno\\audio-steganography-algorithms-master\\04-Phase-Coding\\Untitled1.prj;D:\\CTF\\steno\\audio-steganography-algorithms-master\\01-Spread-Spectrum\\01-DSSS-Conventional-Algorithm\\Untitled1.prj;D:\\CTF\\steno\\audio-steganography-algorithms-master\\02-Echo-Hiding\\05-Echo-Hiding-Time-Spread\\Untitled1.prj;D:\\CTF\\steno\\audio-steganography-algorithms-master\\03-LSB-Coding\\Untitled1.prj;C:\\Windows\\system32\\Untitled1.prj
+EditorMRU1=SC:\\Program Files\\MATLAB\\R2017a\\toolbox\\shared\\hotpluglib\\+internal\\+hotplug\\EventSource.m
