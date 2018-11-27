@@ -1,0 +1,4 @@
+break *0x401094
+break *0x400CCB
+break *0x400EDC
+
